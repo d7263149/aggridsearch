@@ -72,6 +72,7 @@ function App() {
             defaultColDef={defaultColDef}
             onGridReady={onGridReady}
             domLayout='autoHeight'
+            pagination={true}
           />
         </div>
       </div>
